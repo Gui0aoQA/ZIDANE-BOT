@@ -1,0 +1,78 @@
+{
+    "meta_semanal": 350,
+    "membros": [
+        {
+            "id": 1268689731374551064,
+            "nome": "#15775 Vitor Ribeiro",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1280710156526686323,
+            "nome": "#16254 Febre Gultak",
+            "pagou": true,
+            "valor_pago": 512
+        },
+        {
+            "id": 1305715291837173850,
+            "nome": "#16676 Genildo Chupiscador",
+            "pagou": true,
+            "valor_pago": 500
+        },
+        {
+            "id": 1117769132939681812,
+            "nome": "#1972 Joao Paulo",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1244731849977233572,
+            "nome": "#15963 Kevin Ribeiro",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1294763378761531393,
+            "nome": "#2613 RAI kelyson",
+            "pagou": true,
+            "valor_pago": 352
+        },
+        {
+            "id": 961468962699350127,
+            "nome": "#306 Stela Santos",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 608068191939461176,
+            "nome": "#16700 Gustavo Gontijo",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1179106598019399792,
+            "nome": "#16291 Eduardo Cesar",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1134505399932952616,
+            "nome": "#4373 Paim Souza",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 778436417764196352,
+            "nome": "#1286 JOAO FRANCA",
+            "pagou": false,
+            "valor_pago": 0
+        },
+        {
+            "id": 1164026865040756859,
+            "nome": "#15799 Guilherme Mulekinho",
+            "pagou": true,
+            "valor_pago": 1
+        }
+    ],
+    "valor_total": 1365
+}
